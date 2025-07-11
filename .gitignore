@@ -1,2 +1,9 @@
 .mypy_cache
 .ruff_cache
+__pychace__
+build/
+dist
+mtga_launcher/__pycache__/*
+mtga-launcher.spec
+logs.txt
+mtga_launcher/__pycache__/launcher.cpython-312.pyc
